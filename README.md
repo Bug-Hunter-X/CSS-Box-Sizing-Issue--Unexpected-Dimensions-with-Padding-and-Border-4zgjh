@@ -1,0 +1,2 @@
+# CSS Box Sizing Issue
+This repository demonstrates a common CSS issue where the dimensions of an element (width and height) are affected unexpectedly by the presence of padding and borders.  The `bug.css` file shows the problem, while `solution.css` provides a solution using the `box-sizing` property.
